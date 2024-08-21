@@ -1,0 +1,10 @@
+.title-1 {
+  font-family: Roboto;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 30.47px;
+  text-align: left;
+}
+.title-1 + * {
+  margin-top: 15px;
+}
